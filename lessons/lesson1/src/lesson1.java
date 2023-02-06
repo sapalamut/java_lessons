@@ -28,5 +28,8 @@ public class lesson1 {
 
         char q = '\uc043';
         System.out.println(q);
+
+        char q = '\uc043';
+        System.out.println(q);
     }
 }
