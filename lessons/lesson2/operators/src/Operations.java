@@ -16,7 +16,6 @@ public class Operations {
         h++;
         System.out.println(h);
 
-
         x = 40;
         System.out.println(x % 2 == 0);
 
@@ -28,6 +27,9 @@ public class Operations {
 
         boolean number = x < 0 || x > 100;
         System.out.println(number);
+
+        boolean ff = true;
+        System.out.println(!ff);
 
     }
 
